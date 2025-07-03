@@ -26,8 +26,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12"/>
-  <img src="https://prisma.io/images/favicon.png" height="40" alt="Prisma" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
@@ -54,10 +52,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang" />
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/gofiber/branding/master/png/fiber-logo-300x300.png" height="40" alt="Fiber" />
-  <img width="12"/>
-  <img src="https://gorm.io/assets/images/logo.svg" height="40" alt="GORM" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12"/>
