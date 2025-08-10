@@ -17,37 +17,6 @@
 
 ---
 
-### 🔧 Backend Engineer (Node.js + Express + Prisma)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
-
-- TypeScript & Node.js
-- Express.js for REST APIs
-- Prisma as ORM
-- PostgreSQL as primary DB
-- Redis for caching
-- Docker & Docker Compose
-- JWT + Zod for auth & validation
-- Jest & Supertest for testing
-- Winston for logging
-- GitHub Actions for CI/CD
-
----
-
 ### 🧃 Backend Engineer (Golang + Fiber + GORM)
 
 <div align="left">
