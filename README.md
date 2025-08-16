@@ -6,7 +6,7 @@
 
 * 🎓 Bachelor of Informatics <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.5.0/flags/4x3/id.svg" height="16" alt="Indonesian flag" style="vertical-align: middle;" />
 * 👨‍💻 Currently a **Machine Learning Freelancer at Upwork**
-* 🎯 Focused on becoming a **Data Scientist** and **AI Engineer**
+* 🎯 Focused on becoming a **Data Scientist**, **AI Engineer** and **Backend Engineer**
 * 💼 Solid Working Background as **Backend Engineer** and **Data Scientist**
 * 🏆 Scholarship Awardee: 
   * Synergy Academy Awardee (Web Developer Bootcamp)  
