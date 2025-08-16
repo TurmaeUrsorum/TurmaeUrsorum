@@ -85,7 +85,7 @@
 
 * **Freelance Projects (Upwork):** End-to-end Data Science Solutions — from data cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, to deployment.  
 * **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, Time Series Forecasting, Computer Vision, NLP.  
-* **Backend Engineering:** Building RESTful APIs using Node.js & Express.js, database design with PostgreSQL, and DevOps integration using Docker & GitHub Actions.  
+* **Backend Engineering:** Building RESTful APIs using Golang and Fiber Framework, database design with PostgreSQL, and DevOps integration using Docker & GitHub Actions.  
 * **Data Tools & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, Google Colab.
 
 ---
